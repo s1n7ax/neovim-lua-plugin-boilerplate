@@ -5,7 +5,7 @@ boilerplate make things easy.
 
 ## How to use
 
-* clone the project `git clone https://github.com/s1n7ax/neovim-lua-plugin-boilderplate`
+* clone the project `git clone https://github.com/s1n7ax/neovim-lua-plugin-boilerplate`
 * go to the project folder `cd neovim-lua-plugin-boilderplate`
 * start editing `nvim --cmd "set rtp+=."`
 * reference the Lua file `:luafile plugin/helloworld.lua`
